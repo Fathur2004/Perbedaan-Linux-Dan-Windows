@@ -2,8 +2,6 @@
 
 ![alt text](https://www.bleepstatic.com/content/hl-images/2022/01/26/Windows_11_HDR.jpg)
 
-![alt text](https://th.bing.com/th/id/OIP.SB-c5blkBNCATkBT6ICcXgHaEo?rs=1&pid=ImgDetMain)
-
 ## 1. Kernel
 - *Linux*: Kernel monolitik yang efisien.
 - *Windows*: Kernel hibrida yang kompleks.
@@ -15,6 +13,8 @@
 ## 3. Manajemen Proses
 - *Linux*: Multitasking berbasis time-sharing, pengelolaan melalui terminal.
 - *Windows*: Antarmuka grafis yang kuat untuk manajemen aplikasi.
+
+![alt text](https://th.bing.com/th/id/OIP.SB-c5blkBNCATkBT6ICcXgHaEo?rs=1&pid=ImgDetMain)
 
 ## 4. Antarmuka Pengguna
 - *Linux*: Berbagai GUI (GNOME, KDE, XFCE) dan command line.
