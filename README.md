@@ -1,6 +1,3 @@
-# Perbedaan-Linux-Dan-Windows
-
-
 # Perbandingan Arsitektur Linux OS dan Windows
 
 ## 1. Kernel
