@@ -1,6 +1,6 @@
-# NAMA  : Fathur Rahman
-# KELAS : TK3C
-# NIM   : 09030282327047
+ NAMA  : Fathur Rahman
+ KELAS : TK3C
+ NIM   : 09030282327047
 
 # Perbandingan Arsitektur Linux OS dan Windows
 
