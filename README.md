@@ -9,7 +9,7 @@
 
 # Perbandingan Arsitektur Linux OS dan Windows
 
-![alt text](https://www.bleepstatic.com/content/hl-images/2022/01/26/Windows_11_HDR.jpg)
+![alt text]("C:\Users\USER\Downloads\WhatsApp Image 2024-10-04 at 09.14.22_bc7de360.jpg")
 
 ## 1. Kernel
 - *Linux*: Kernel monolitik yang efisien.
