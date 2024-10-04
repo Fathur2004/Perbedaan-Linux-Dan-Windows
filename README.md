@@ -24,7 +24,8 @@
 - *Linux*: Multitasking berbasis time-sharing, pengelolaan melalui terminal.
 - *Windows*: Antarmuka grafis yang kuat untuk manajemen aplikasi.
 
-![alt text](https://th.bing.com/th/id/OIP.SB-c5blkBNCATkBT6ICcXgHaEo?rs=1&pid=ImgDetMain)
+![WhatsApp Image 2024-10-04 at 09 14 21_64bac26e](https://github.com/user-attachments/assets/54766153-9d74-4924-b315-9e1fb2110945)
+
 
 ## 4. Antarmuka Pengguna
 - *Linux*: Berbagai GUI (GNOME, KDE, XFCE) dan command line.
